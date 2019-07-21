@@ -9,4 +9,7 @@ Install all the necessary dependencies of this app by running the following comm
 pip install -r requirements.txt
 
 # Step Two
-Whilst in the project root directory, run python app/server.py serve to start the uvicorn server. Open your browser and go to your https://localhost:5000 and start identify the breed of your pet.
+Whilst in the project root directory, run python app/server.py serve to start the uvicorn server. Open your browser and go to your http://localhost:5000 and start identify the breed of your pet.
+
+# Acknowledgements
+Special thanks to Pankaj Mathur for the awesome tutorial on web application intergration for a image classifier and Fastai. 
